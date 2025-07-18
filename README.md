@@ -1,4 +1,8 @@
 <!-- Minimalist & Modern GitHub Profile README for MiceDe27 (Ash) -->
+<p align="center">
+  <img src="https://github.com/godkingjay/godkingjay/raw/master/assets/borderseparator.gif" width="100%" />
+</p>
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I'm+Mice+De;A+CS+Student+from+Sorsogon+State+University;Web+Developer;Wolf-Minded+Coder+%F0%9F%90%BA" alt="Typing SVG" />
