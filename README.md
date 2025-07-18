@@ -21,7 +21,9 @@
   <a href="https://python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python badge"/></a>
 </p>
 
----
+<p align="center">
+  <img src="https://github.com/godkingjay/godkingjay/raw/master/assets/borderseparator.gif" width="100%" />
+</p>
 
 ## 🎓 Educational Journey
 
