@@ -1,6 +1,6 @@
 <!-- Minimalist & Modern GitHub Profile README for MiceDe27 (Ash) -->
 <p align="center">
-  <img src="https://github.com/godkingjay/godkingjay/raw/master/assets/borderseparator.gif" width="100%" />
+  <img src="https://github.com/godkingjay/godkingjay/raw/master/assets/borderseparator.gif" width="200%" />
 </p>
 
 
@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/godkingjay/godkingjay/raw/master/assets/borderseparator.gif" width="100%" />
+  <img src="https://github.com/godkingjay/godkingjay/raw/master/assets/borderseparator.gif" width="200%" />
 </p>
 
 
