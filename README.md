@@ -1,6 +1,6 @@
 <!-- Minimalist & Modern GitHub Profile README for MiceDe27 (Ash) -->
 
-<h1 align="center">Hello there! I'm Mice De (Ash)</h1>
+<h1 align="center">Mice De (Ash)</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MiceDe27&label=Profile+Views&color=0e75b6&style=flat" alt="visitor badge"/>
