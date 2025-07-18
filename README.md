@@ -25,7 +25,7 @@
   <img src="https://github.com/godkingjay/godkingjay/raw/master/assets/borderseparator.gif" width="100%" />
 </p>
 
-<h1 align="center">Educational Journey</h1>
+<h2 align="center"> 🎓Educational Journey</h2>
 
 - 🏫 **Bachelor of Science in Computer Science**  
   Currently studying and actively applying what I learn to real-world projects.
