@@ -27,7 +27,7 @@
 
 <h2 align="center"> 🎓Educational Journey</h2>
 
-<p>🏫 **Bachelor of Science in Computer Science**  
+<p>🏫Bachelor of Science in Computer Science**  
   Currently studying and actively applying what I learn to real-world projects.</p></br>
 - 🧠 **Self-Taught Explorer**  
   Continuously learning through hands-on practice, online tutorials, and building projects.
