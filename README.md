@@ -27,10 +27,12 @@
 
 <h2 align="center"> 🎓Educational Journey</h2>
 
-<p>🏫Bachelor of Science in Computer Science**  
-  Currently studying and actively applying what I learn to real-world projects.</p></br>
+- 🏫 **Bachelor of Science in Computer Science**  
+  Currently studying and actively applying what I learn to real-world projects.
+
 - 🧠 **Self-Taught Explorer**  
   Continuously learning through hands-on practice, online tutorials, and building projects.
+
 - 🚀 **Project-Based Learning**  
   I believe in learning by doing—each project helps me grow my skills and deepen my understanding.
 
