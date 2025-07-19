@@ -36,7 +36,7 @@
 - 🚀 **Project-Based Learning**  
   I believe in learning by doing—each project helps me grow my skills and deepen my understanding.
 
-
+---
 
 ## 🚀 Tech Stack
 
