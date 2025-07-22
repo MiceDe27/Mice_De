@@ -1,4 +1,4 @@
-<-- Minimalist & Modern GitHub Profile README for MiceDe27 (Ash) -->
+<!-- Minimalist & Modern GitHub Profile README for MiceDe27 (Ash) -->
 <p align="center">
   <img src="https://github.com/MiceDe27/MiceDe27/blob/main/micedekun.gif" width="200%" ; height="3px"/>
 </p>
