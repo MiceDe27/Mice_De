@@ -1,6 +1,6 @@
 <!-- Minimalist & Modern GitHub Profile README for MiceDe27 (Ash) -->
 <p align="center">
-  <img src="https://github.com/godkingjay/godkingjay/raw/master/assets/borderseparator.gif" width="200%" />
+  <img src="https://github.com/MiceDe27/MiceDe27/blob/main/micedekun.gif" width="200%" ; height="3px"/>
 </p>
 
 
@@ -22,10 +22,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/godkingjay/godkingjay/raw/master/assets/borderseparator.gif" width="100%" />
+  <img src="https://github.com/MiceDe27/MiceDe27/blob/main/micedekun.gif" width="100%" height="3px"/>
 </p>
 
-<h2 align="center"> 🎓Educational Journey</h2>
+<h3 align="center"> 🎓Educational Journey</h3>
+<p align="center">
+  <img src="https://github.com/MiceDe27/MiceDe27/blob/main/micedekun.gif" width="100%" height="3px"/>
+</p>
 
 - 🏫 **Bachelor of Science in Computer Science**  
   Currently studying and actively applying what I learn to real-world projects.
@@ -36,16 +39,22 @@
 - 🚀 **Project-Based Learning**  
   I believe in learning by doing—each project helps me grow my skills and deepen my understanding.
 
----
-
-## 🚀 Tech Stack
+<p align="center">
+  <img src="https://github.com/MiceDe27/MiceDe27/blob/main/micedekun.gif" width="100%" height="3px"/>
+</p>
+<h3 align="center">🛠️ Tech Stack</h3>
 
 - **Frontend:** HTML, CSS, JavaScript (Vanilla)
+
 - **Backend & Cloud:** Firebase Authentication, Firestore Database
+  
 - **Other:** Python (Logic Building)
+  
 - **Tools:** Git, GitHub, VS Code, Chrome DevTools
 
----
+<p align="center">
+  <img src="https://github.com/MiceDe27/MiceDe27/blob/main/micedekun.gif" width="100%" height="3px"/>
+</p>
 
 ## 📈 Roadmap & Developer Goals
 
