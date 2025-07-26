@@ -1,6 +1,6 @@
 <!-- Minimalist & Modern GitHub Profile README for MiceDe27 (Ash) -->
 <p align="center">
-  <img src="https://github.com/MiceDe27/MiceDe27/blob/main/micedekun.gif" width="200%" ; height="3px"/>
+  <img src="https://github.com/MiceDe27/MiceDe27/blob/main/micedekun.gif" width="200%" height="3px" style="border:0;"/>
 </p>
 
 <h1 align="center">
@@ -8,68 +8,66 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MiceDe27&label=Profile+Views&color=0e75b6&style=flat" alt="visitor badge"/>
+  <img src="https://komarev.com/ghpvc/?username=MiceDe27&label=Profile+Views&color=00FFFF&style=flat" alt="visitor badge"/>
 </p>
 
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML badge"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS badge"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS badge"/></a>
-  <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase badge"/></a>
-  <a href="https://python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python badge"/></a>
-  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-00FFFF?style=for-the-badge&logo=html5&logoColor=00FFFF" alt="HTML badge"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-00FFFF?style=for-the-badge&logo=css3&logoColor=00FFFF" alt="CSS badge"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-00FFFF?style=for-the-badge&logo=javascript&logoColor=00FFFF" alt="JS badge"/></a>
+  <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-00FFFF?style=for-the-badge&logo=firebase&logoColor=00FFFF" alt="Firebase badge"/></a>
+  <a href="https://python.org/"><img src="https://img.shields.io/badge/Python-00FFFF?style=for-the-badge&logo=python&logoColor=00FFFF" alt="Python badge"/></a>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-00FFFF?style=for-the-badge&logo=github&logoColor=00FFFF" alt="GitHub badge"/></a>
 </p>
+
+<p align="center">
+  <img src="https://github.com/MiceDe27/MiceDe27/blob/main/micedekun.gif" width="100%" height="3px" />
+</p>
+
+<h3 align="center" style="color:#00FFFF;"> 🎓Educational Journey</h3>
+<p align="center">
+  <img src="https://github.com/MiceDe27/MiceDe27/blob/main/micedekun.gif" width="100%" height="3px"/>
+</p>
+
+- 🏫 <span style="color:#00FFFF"><b>Bachelor of Science in Computer Science</b></span>  
+  <span style="color:#00FFFF">Currently studying and actively applying what I learn to real-world projects.</span>
+- 🧠 <span style="color:#00FFFF"><b>Self-Taught Explorer</b></span>  
+  <span style="color:#00FFFF">Continuously learning through hands-on practice, online tutorials, and building projects.</span>
+- 🚀 <span style="color:#00FFFF"><b>Project-Based Learning</b></span>  
+  <span style="color:#00FFFF">I believe in learning by doing—each project helps me grow my skills and deepen my understanding.</span>
 
 <p align="center">
   <img src="https://github.com/MiceDe27/MiceDe27/blob/main/micedekun.gif" width="100%" height="3px"/>
 </p>
 
-<h3 align="center"> 🎓Educational Journey</h3>
-<p align="center">
-  <img src="https://github.com/MiceDe27/MiceDe27/blob/main/micedekun.gif" width="100%" height="3px"/>
-</p>
-
-- 🏫 **Bachelor of Science in Computer Science**  
-  Currently studying and actively applying what I learn to real-world projects.
-
-- 🧠 **Self-Taught Explorer**  
-  Continuously learning through hands-on practice, online tutorials, and building projects.
-
-- 🚀 **Project-Based Learning**  
-  I believe in learning by doing—each project helps me grow my skills and deepen my understanding.
-
-<p align="center">
-  <img src="https://github.com/MiceDe27/MiceDe27/blob/main/micedekun.gif" width="100%" height="3px"/>
-</p>
-
-## 🛠️ Tech Stack
+## <span style="color:#00FFFF;">🛠️ Tech Stack</span>
 
 <table>
   <tr>
     <td align="center">
-      <b>HTML</b><br>
+      <b style="color:#00FFFF;">HTML</b><br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiceDe27&theme=radical&hide=css,js,python,firebase&langs_count=1&custom_title=HTML%20Stats" height="150"/>
     </td>
     <td align="center">
-      <b>CSS</b><br>
+      <b style="color:#00FFFF;">CSS</b><br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiceDe27&theme=radical&hide=html,js,python,firebase&langs_count=1&custom_title=CSS%20Stats" height="150"/>
     </td>
     <td align="center">
-      <b>JavaScript</b><br>
+      <b style="color:#00FFFF;">JavaScript</b><br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiceDe27&theme=radical&hide=html,css,python,firebase&langs_count=1&custom_title=JavaScript%20Stats" height="150"/>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <b>Python</b><br>
+      <b style="color:#00FFFF;">Python</b><br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiceDe27&theme=radical&hide=html,css,js,firebase&langs_count=1&custom_title=Python%20Stats" height="150"/>
     </td>
     <td align="center">
-      <b>Firebase</b><br>
+      <b style="color:#00FFFF;">Firebase</b><br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiceDe27&theme=radical&hide=html,css,js,python&langs_count=1&custom_title=Firebase%20Stats" height="150"/>
     </td>
     <td align="center">
-      <b>GitHub</b><br>
+      <b style="color:#00FFFF;">GitHub</b><br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiceDe27&theme=radical&hide=html,css,js,python,firebase&langs_count=1&custom_title=GitHub%20Stats" height="150"/>
     </td>
   </tr>
@@ -79,7 +77,7 @@
   <img src="https://github.com/MiceDe27/MiceDe27/blob/main/micedekun.gif" width="100%" height="3px"/>
 </p>
 
-## 📈 Roadmap & Developer Goals
+## <span style="color:#00FFFF;">📈 Roadmap & Developer Goals</span>
 
 ```mermaid
 timeline
@@ -96,34 +94,34 @@ timeline
 
 ---
 
-## 🧠 Interests & Hobbies
+## <span style="color:#00FFFF;">🧠 Interests & Hobbies</span>
 
-- 💻 Coding for fun and continuous growth
-- 🧩 Solving logic & math problems
-- 🌏 Exploring real-world challenges through projects
-
----
-
-## 🏆 Featured Projects
-
-*Coming soon! Stay tuned for my web apps and experiments.*
+- 💻 <span style="color:#00FFFF">Coding for fun and continuous growth</span>
+- 🧩 <span style="color:#00FFFF">Solving logic & math problems</span>
+- 🌏 <span style="color:#00FFFF">Exploring real-world challenges through projects</span>
 
 ---
 
-## 🏅 Certifications & Achievements
+## <span style="color:#00FFFF;">🏆 Featured Projects</span>
 
-📜 *Coming soon...*
-
----
-
-## 👥 Communities & Collaboration
-
-Open to joining hackathons, tech communities, and contributing to open source projects.  
-Let’s connect and build something awesome together!
+*<span style="color:#00FFFF;">Coming soon! Stay tuned for my web apps and experiments.</span>*
 
 ---
 
-## 📊 GitHub Stats
+## <span style="color:#00FFFF;">🏅 Certifications & Achievements</span>
+
+📜 <span style="color:#00FFFF;">Coming soon...</span>
+
+---
+
+## <span style="color:#00FFFF;">👥 Communities & Collaboration</span>
+
+<span style="color:#00FFFF;">Open to joining hackathons, tech communities, and contributing to open source projects.<br>
+Let’s connect and build something awesome together!</span>
+
+---
+
+## <span style="color:#00FFFF;">📊 GitHub Stats</span>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=MiceDe27&show_icons=true&theme=radical" height="150"/>
@@ -132,28 +130,28 @@ Let’s connect and build something awesome together!
 
 ---
 
-## ✉️ Contact Me
+## <span style="color:#00FFFF;">✉️ Contact Me</span>
 
 <p align="center">
   <a href="mailto:micedekun27@gmail.com" title="Email">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-00FFFF?style=for-the-badge&logo=gmail&logoColor=00FFFF" alt="Email"/>
   </a>
   <a href="https://www.facebook.com/UnpredictableFlow" title="Facebook">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-00FFFF?style=for-the-badge&logo=facebook&logoColor=00FFFF" alt="Facebook"/>
   </a>
   <a href="https://www.instagram.com/micede27?igsh=aTVpZHh1Z3pycWJt" title="Instagram">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-00FFFF?style=for-the-badge&logo=instagram&logoColor=00FFFF" alt="Instagram"/>
   </a>
   <a href="http://www.youtube.com/@Hm.De617" title="YouTube">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+    <img src="https://img.shields.io/badge/YouTube-00FFFF?style=for-the-badge&logo=youtube&logoColor=00FFFF" alt="YouTube"/>
   </a>
   <a href="https://github.com/MiceDe27" title="GitHub">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-00FFFF?style=for-the-badge&logo=github&logoColor=00FFFF" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <em>Thank you for visiting my profile!<br>
+  <em style="color:#00FFFF;">Thank you for visiting my profile!<br>
 </p>
