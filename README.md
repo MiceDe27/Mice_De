@@ -7,18 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I'm+Mice+De;A+CS+Student+from+Sorsogon+State+University;Web+Developer;Wolf-Minded+Coder+%F0%9F%90%BA" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MiceDe27&label=Profile+Views&color=00FFFF&style=flat" alt="visitor badge"/>
-</p>
-
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-00FFFF?style=for-the-badge&logo=html5&logoColor=00FFFF" alt="HTML badge"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-00FFFF?style=for-the-badge&logo=css3&logoColor=00FFFF" alt="CSS badge"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-00FFFF?style=for-the-badge&logo=javascript&logoColor=00FFFF" alt="JS badge"/></a>
-  <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-00FFFF?style=for-the-badge&logo=firebase&logoColor=00FFFF" alt="Firebase badge"/></a>
-  <a href="https://python.org/"><img src="https://img.shields.io/badge/Python-00FFFF?style=for-the-badge&logo=python&logoColor=00FFFF" alt="Python badge"/></a>
-  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-00FFFF?style=for-the-badge&logo=github&logoColor=00FFFF" alt="GitHub badge"/></a>
-</p>
 
 <p align="center">
   <img src="https://github.com/MiceDe27/MiceDe27/blob/main/micedekun.gif" width="100%" height="3px" />
@@ -41,37 +29,15 @@
 </p>
 
 ## <span style="color:#00FFFF;">🛠️ Tech Stack</span>
-
-<table>
-  <tr>
-    <td align="center">
-      <b style="color:#00FFFF;">HTML</b><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiceDe27&theme=radical&hide=css,js,python,firebase&langs_count=1&custom_title=HTML%20Stats" height="150"/>
-    </td>
-    <td align="center">
-      <b style="color:#00FFFF;">CSS</b><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiceDe27&theme=radical&hide=html,js,python,firebase&langs_count=1&custom_title=CSS%20Stats" height="150"/>
-    </td>
-    <td align="center">
-      <b style="color:#00FFFF;">JavaScript</b><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiceDe27&theme=radical&hide=html,css,python,firebase&langs_count=1&custom_title=JavaScript%20Stats" height="150"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b style="color:#00FFFF;">Python</b><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiceDe27&theme=radical&hide=html,css,js,firebase&langs_count=1&custom_title=Python%20Stats" height="150"/>
-    </td>
-    <td align="center">
-      <b style="color:#00FFFF;">Firebase</b><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiceDe27&theme=radical&hide=html,css,js,python&langs_count=1&custom_title=Firebase%20Stats" height="150"/>
-    </td>
-    <td align="center">
-      <b style="color:#00FFFF;">GitHub</b><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiceDe27&theme=radical&hide=html,css,js,python,firebase&langs_count=1&custom_title=GitHub%20Stats" height="150"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-00FFFF?style=for-the-badge&logo=html5&logoColor=000000" alt="HTML"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-00FFFF?style=for-the-badge&logo=css3&logoColor=000000" alt="CSS"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-00FFFF?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript"/></a>
+  <a href="https://python.org/"><img src="https://img.shields.io/badge/Python-00FFFF?style=for-the-badge&logo=python&logoColor=000000" alt="Python"/></a>
+  <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-00FFFF?style=for-the-badge&logo=firebase&logoColor=000000" alt="Firebase"/></a>
+  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-00FFFF?style=for-the-badge&logo=mongodb&logoColor=000000" alt="MongoDB"/></a>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-00FFFF?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub"/></a>
+</p>
 
 <p align="center">
   <img src="https://github.com/MiceDe27/MiceDe27/blob/main/micedekun.gif" width="100%" height="3px"/>
@@ -92,34 +58,48 @@ timeline
     Future : Open to joining hackathons, communities, and contributing to open source
 ```
 
----
 
-## <span style="color:#00FFFF;">🧠 Interests & Hobbies</span>
+<p align="center">
+  <img src="https://github.com/MiceDe27/MiceDe27/blob/main/micedekun.gif" width="100%" height="3px" />
+</p>
+<span style="color:#00FFFF;">🧠 Interests & Hobbies</span>
 
 - 💻 <span style="color:#00FFFF">Coding for fun and continuous growth</span>
 - 🧩 <span style="color:#00FFFF">Solving logic & math problems</span>
 - 🌏 <span style="color:#00FFFF">Exploring real-world challenges through projects</span>
 
----
+
+<p align="center">
+  <img src="https://github.com/MiceDe27/MiceDe27/blob/main/micedekun.gif" width="100%" height="3px" />
+</p>
 
 ## <span style="color:#00FFFF;">🏆 Featured Projects</span>
 
 *<span style="color:#00FFFF;">Coming soon! Stay tuned for my web apps and experiments.</span>*
 
----
+
+<p align="center">
+  <img src="https://github.com/MiceDe27/MiceDe27/blob/main/micedekun.gif" width="100%" height="3px" />
+</p>
 
 ## <span style="color:#00FFFF;">🏅 Certifications & Achievements</span>
 
 📜 <span style="color:#00FFFF;">Coming soon...</span>
 
----
+
+<p align="center">
+  <img src="https://github.com/MiceDe27/MiceDe27/blob/main/micedekun.gif" width="100%" height="3px" />
+</p>
 
 ## <span style="color:#00FFFF;">👥 Communities & Collaboration</span>
 
 <span style="color:#00FFFF;">Open to joining hackathons, tech communities, and contributing to open source projects.<br>
 Let’s connect and build something awesome together!</span>
 
----
+
+<p align="center">
+  <img src="https://github.com/MiceDe27/MiceDe27/blob/main/micedekun.gif" width="100%" height="3px" />
+</p>
 
 ## <span style="color:#00FFFF;">📊 GitHub Stats</span>
 
@@ -128,7 +108,10 @@ Let’s connect and build something awesome together!</span>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiceDe27&layout=compact&theme=radical" height="150"/>
 </p>
 
----
+
+<p align="center">
+  <img src="https://github.com/MiceDe27/MiceDe27/blob/main/micedekun.gif" width="100%" height="3px" />
+</p>
 
 ## <span style="color:#00FFFF;">✉️ Contact Me</span>
 
@@ -150,7 +133,10 @@ Let’s connect and build something awesome together!</span>
   </a>
 </p>
 
----
+
+<p align="center">
+  <img src="https://github.com/MiceDe27/MiceDe27/blob/main/micedekun.gif" width="100%" height="3px" />
+</p>
 
 <p align="center">
   <em style="color:#00FFFF;">Thank you for visiting my profile!<br>
