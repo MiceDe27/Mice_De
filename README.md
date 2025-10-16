@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Mice%20De&width=800&height=200&color=00FFFF&bgColor=002B2B" alt="Benedict Delumen" />
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Mice%20De&width=600&height=100&color=00FFFF&bgColor=002B2B" alt="Mice De" />
 </p>
 <p align="center">
   <img src="https://github.com/MiceDe27/Mice_De/blob/main/micedekun.gif" width="200%" height="3px" style="border:0;"/>
@@ -15,9 +15,12 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MiceDe27&label=Profile+Views&color=00FFFF&style=flat" alt="visitor badge"/>
+  <img src="https://github.com/MiceDe27/Mice_De/blob/main/micedekun.gif" width="100%" height="3px" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MiceDe27&label=Profile+Views&color=00FFFF&style=flat" alt="visitor badge"/>
+</p>
 
 <p align="center">
   <img src="https://github.com/MiceDe27/Mice_De/blob/main/micedekun.gif" width="100%" height="3px" />
