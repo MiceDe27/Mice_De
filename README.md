@@ -31,6 +31,9 @@
   <img src="https://github.com/MiceDe27/Mice_De/blob/main/micedekun.gif" width="100%" height="3px"/>
 </p>
 
+<img flex align="right" src="https://github.com/MiceDe27/MiceDe27/blob/main/giphy.gif" width="300px" height="500px" alt="">
+
+
 - 🏫 <span style="color:#00FFFF"><b>Bachelor of Science in Computer Science</b></span>  
   <span style="color:#00FFFF">Currently studying and actively applying what I learn to real-world projects.</span>
 - 🧠 <span style="color:#00FFFF"><b>Self-Taught Explorer</b></span>  
